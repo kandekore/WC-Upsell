@@ -1,7 +1,3 @@
-Below is a sample README.md file in markdown format for the given PHP and JS code.
-
----
-
 # WooCommerce Upsell Popup
 
 An upsell popup plugin for WooCommerce checkout.
@@ -32,8 +28,9 @@ This WordPress plugin, when activated, shows an upsell popup on the WooCommerce 
 
 ### Settings Options
 
-- **Custom Message**: Set a custom message to be displayed in the upsell popup.
+- **Upsell Message**: Set a custom message to be displayed in the upsell popup.
 - **Product Category**: Choose a product category to fetch products for the upsell popup.
+- **Product Order** Set the order of products
 
 ## License
 
